@@ -1,5 +1,22 @@
-{
-  "departmentName": "Finance",
-  "departmentCode": "DEP002",
-  "departmentAddress": "First Floor"
-}
+[
+  {
+    "departmentName": "IT",
+    "departmentCode": "DEP01",
+    "departmentAddress": "First Floor"
+  },
+  {
+    "departmentName": "HR",
+    "departmentCode": "DEP02",
+    "departmentAddress": "Second Floor"
+  },
+  {
+    "departmentName": "Finance",
+    "departmentCode": "DEP03",
+    "departmentAddress": "Third Floor"
+  },
+  {
+    "departmentName": "Admin",
+    "departmentCode": "DEP04",
+    "departmentAddress": "Forth Floor"
+  }
+]
